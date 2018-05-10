@@ -30,10 +30,10 @@ elseif ($ui -eq $option[0])
 	{
     $groups = $JMMC
 	$server = "server.name.1"
-	}
+	
 elseif ($ui -eq $option[3])
 	{
-	$groups = $Trinity
+	$groups = $Trin
 	$server = "server.name.1"
 	}
 elseif ($ui -eq $option[4])
@@ -48,7 +48,7 @@ elseif($ui -eq $option[2])
 	}
 elseif($ui -eq $option[5])
 	{
-	$groups = $Trinity 
+	$groups = $Trin 
 	$server = "server.name"
 	}
 elseif ($ui -eq $option[6])
